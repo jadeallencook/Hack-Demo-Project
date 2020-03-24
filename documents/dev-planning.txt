@@ -1,0 +1,24 @@
+YH 3/19/20: 
+
+As we discussed, we can play with our warm up project from tmw. I came up with some brief ideas about it, it is about build up a simple version of the summary table of Planning Tool. I listed the table structure, the enum values as well as a draft UI. We can start from the basic and if we finish it sooner than the delivery of the device, we can expand the scope of it. I uploaded it to github as well and we can talk more in our sync up tmw. 
+
+YH 3/19/20: [yuan-design-doc.xlsx]
+
+JC 3/21/20: [jade-mockup.jpg]
+
+YH 3/23/20: 
+
+1. There are for scenarios, Jan_Forecast, Apr_Forecast, Aug_Forecast, and Oct_Forecast. These values should be listed in the scenario selection. Things like Q1_actual are just details of the records. 
+
+2. It would be great if we can make the table editable. For instance, if I want to play Jan_Forecast of FY20, I just need to make these selection in the selectors and edit the numbers like Q2_forecast within the table. 
+
+3. Let leave the calculation for now. We can just set up the db, create some sample data, (whatever you want) and implement the UI then connect them using Graphql. We can further play with the calculation and logic part later when you are done. Or if you get your devices, we can play with the tool then.  
+
+4. Expense category is just another dimension of the records, for instance, a expense of airline ticket belong to the Travel and Entertainment category.
+
+JC 3/23/20: [jade-mockup-revised.jpg]
+
+
+YH 3/23/20: 
+
+Looking great. One tiny place is that can we make the whole table editable rather than use an text input in the header? which is more align with how the tool looks like but just go with whichever way that is easier for implementation
