@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Hack-Demo-Project/build/static/css/main.3621d7f7.chunk.css",
+    "main.js": "/Hack-Demo-Project/build/static/js/main.1be19ac2.chunk.js",
+    "main.js.map": "/Hack-Demo-Project/build/static/js/main.1be19ac2.chunk.js.map",
+    "runtime-main.js": "/Hack-Demo-Project/build/static/js/runtime-main.64683e3e.js",
+    "runtime-main.js.map": "/Hack-Demo-Project/build/static/js/runtime-main.64683e3e.js.map",
+    "static/js/2.f876df4f.chunk.js": "/Hack-Demo-Project/build/static/js/2.f876df4f.chunk.js",
+    "static/js/2.f876df4f.chunk.js.map": "/Hack-Demo-Project/build/static/js/2.f876df4f.chunk.js.map",
+    "index.html": "/Hack-Demo-Project/build/index.html",
+    "precache-manifest.eec3143a3e816e283742872124639f94.js": "/Hack-Demo-Project/build/precache-manifest.eec3143a3e816e283742872124639f94.js",
+    "service-worker.js": "/Hack-Demo-Project/build/service-worker.js",
+    "static/css/main.3621d7f7.chunk.css.map": "/Hack-Demo-Project/build/static/css/main.3621d7f7.chunk.css.map",
+    "static/js/2.f876df4f.chunk.js.LICENSE.txt": "/Hack-Demo-Project/build/static/js/2.f876df4f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.64683e3e.js",
+    "static/js/2.f876df4f.chunk.js",
+    "static/css/main.3621d7f7.chunk.css",
+    "static/js/main.1be19ac2.chunk.js"
+  ]
+}

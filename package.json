@@ -1,5 +1,6 @@
 {
   "name": "hack-demo-project",
+  "homepage": "http://jadeallencook.github.io/Hack-Demo-Project/build/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
