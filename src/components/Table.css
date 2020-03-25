@@ -1,0 +1,49 @@
+div.Table {
+  margin: 25px 0px;
+  width: 850px;
+  border: solid 1px #333;
+  border-radius: 3px;
+}
+
+div.Table > ul {
+  list-style: none;
+  display: grid;
+  grid-template-columns: repeat(8, 1fr) 2fr;
+  padding: 0px;
+  font-size: 0.75em;
+  margin: 0px;
+}
+
+div.Table > ul.headers {
+  font-weight: bold;
+  background-color: #333;
+  color: #fff;
+}
+
+div.Table > ul > li {
+  padding: 5px;
+  text-align: left;
+  border: solid 1px #333;
+  box-sizing: border-box;
+}
+
+div.Table > ul.rows > li:not(:last-child) {
+  cursor: pointer;
+}
+
+div.Table > ul.rows > li:not(:last-child):not(.selected):hover {
+  border: solid 3px #68d61f;
+}
+
+div.Table > ul.rows > li.selected {
+  border: solid 3px #1f5fd6;
+}
+
+div.Table > ul.rows > li:not(:last-child):not(.selected):hover,
+div.Table > ul.rows > li.selected {
+  padding: 3px;
+}
+
+div.Table > ul.rows > li.category {
+  background-color: #DDD;
+}
