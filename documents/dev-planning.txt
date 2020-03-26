@@ -18,7 +18,10 @@ YH 3/23/20:
 
 JC 3/23/20: [jade-mockup-revised.jpg]
 
-
 YH 3/23/20: 
 
 Looking great. One tiny place is that can we make the whole table editable rather than use an text input in the header? which is more align with how the tool looks like but just go with whichever way that is easier for implementation
+
+JC 3/24/20: (completed front-end)
+
+JC 3/25/20: (setup database)
